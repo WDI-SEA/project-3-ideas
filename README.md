@@ -2,5 +2,5 @@
 
 # Project 3 Idea Prompts
 
-This repo contains a varaity of basic project ideas that would be very suitable for project 3. You are not required to do one of theses, they are just availible for inspiration.
+This repo contains a varaity of basic project ideas that would be very suitable for project 3. You are not required to do one of these, they are just availible for inspiration to help with your groups brainstorming process.
 
